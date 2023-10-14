@@ -1,0 +1,12 @@
+/* Slector1.Selector2 */
+h1.red-class{
+    color: red;
+}
+/* Selector1 Selector2 */
+.blu-class h1{
+    color: blue;
+}
+/* Selector1>Selector2 */
+.green-class>h1{
+    color: green;
+}

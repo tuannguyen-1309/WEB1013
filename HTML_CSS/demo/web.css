@@ -1,0 +1,29 @@
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    border: solid red 10px;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .col {
+    width: 100%;
+    padding: 20px;
+    background-color: #ccc;
+  }
+  
+  .col-md-2 {
+    width: 25%;
+  }
+  
+  .col-md-8 {
+    width: 60%;
+  }
+  
+  .col-md-2 {
+    width: 15%;
+  }
+  

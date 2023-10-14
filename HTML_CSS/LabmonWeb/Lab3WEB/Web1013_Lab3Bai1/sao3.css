@@ -1,0 +1,19 @@
+*{
+  font-size: 30px;
+  text-align: center;
+}
+strong {
+  color: brown;
+}
+.doan-1.doan-2.doan-3.doan-4{
+ width: max-content;
+}
+.doan-1 {
+  color: red;
+}
+.doan-2 {
+  color: green;
+}
+.doan-3 {
+  color: blue;
+}

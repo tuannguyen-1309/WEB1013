@@ -1,0 +1,3 @@
+* _CSS (Cascading Style Sheet)_ tạm dịch là bảng định kiểu xếp chồng
+* _Vai trò của CSS_ là định dạng các thành phần giao diện và thực hiện bố cục trang web.
+* _Qui luật định dạng trong CSS_ vô cùng phong phú: _"màu sắc"_, _"đường kẻ"_, _"bo góc"_, _"làm bóng"_…

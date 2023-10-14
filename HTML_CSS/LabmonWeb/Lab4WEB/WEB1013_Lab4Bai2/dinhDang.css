@@ -1,0 +1,45 @@
+ul {
+  padding: 0;
+  list-style: none;
+}
+.menu {
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  width: 100%;
+}
+.menu-list {
+  display: flex;
+  width: 500px;
+  justify-content: space-between;
+  margin: auto;
+  height: 40px;
+  align-items: center;
+}
+
+ul li {
+  margin: 0 10px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+ul li a {
+  color: blue;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+ul li a:link {
+  color: blue;
+}
+ul li a:hover {
+  text-shadow: 0 0 5px red;
+  text-decoration: underline;
+}
+ul li a:visited {
+  color: green;
+}
+.logo {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}

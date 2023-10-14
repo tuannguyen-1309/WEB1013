@@ -1,0 +1,12 @@
+/* HTML Selector */
+h1{
+    color: red;
+}
+/* Class Selector */
+.my-class{
+    color: blue;
+}
+/* ID Selector */
+#my-id{
+    color: green;
+}
